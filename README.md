@@ -1,7 +1,7 @@
 # Learning-CPP
 History of C++ basic programming learning, mixed from many online platform (ex. TLX, Coddy, etc soon)
 
-================================================================================= REKURSI =================================================================================
+============ REKURSI ============
 (Source TLX) Fungsi rekursi merupakan fungsi dimana kita tidak melakukan perulangan (loop) dalam programnya. Biasanya digunakan dalam perhitungan matematika seperti Faktorial.
 
  __________________________________________
